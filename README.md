@@ -1,6 +1,6 @@
 ## Personal Expense Tracker
 
-    A simple RESTful API for managing financial transactions (income and expenses) built with Node.js, Express, and SQLite.
+### A simple RESTful API for managing financial transactions (income and expenses) built with Node.js, Express, and SQLite.
 
 ## Features
 * Add new transactions (income/expense).
@@ -104,3 +104,33 @@
         npm run dev
 
 The server will run on http://localhost:3000.
+
+
+### Postman screenshots demonstrating each API call
+
+![Screenshot (13)](https://github.com/user-attachments/assets/73e0f866-9150-49d7-bea4-f784d5e0916f)
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/1605d895-e877-4ba2-ad7c-328e47d1bec4)
+
+
+![Screenshot (15)](https://github.com/user-attachments/assets/f0793652-21f4-4ee0-8d31-689d592ee2f7)
+
+
+![Screenshot (16)](https://github.com/user-attachments/assets/92b8edd0-3a0d-456e-85b7-9c9ac8a37f0c)
+
+
+![Screenshot (17)](https://github.com/user-attachments/assets/5c6a2381-b799-4d85-bc28-005922fc73a6)
+
+
+![Screenshot (18)](https://github.com/user-attachments/assets/e5b76585-5e48-418c-bbd6-c59d516f138f)
+
+
+![Screenshot (19)](https://github.com/user-attachments/assets/ff48490e-e7f5-4889-87d9-48b820d198d6)
+
+
+![Screenshot (20)](https://github.com/user-attachments/assets/1179c13a-c373-4506-81d4-27547bd46db1)
+
+
+![Screenshot 2024-10-23 010909](https://github.com/user-attachments/assets/dbbe1114-55b3-46e7-a249-7b536571e882)
+
